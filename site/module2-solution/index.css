@@ -12,6 +12,7 @@
     body {
       margin: 0px;
       background-size: 100%;
+      background-color:pink;
     }
     .row {
       width: 100%;

@@ -1,0 +1,68 @@
+body {
+	text-align: center;
+	font-family: "Sora", sans-serif;
+	color: #fff;
+	background-color: #cf1b1b;
+}	
+#nav-header {
+	padding-bottom:45px;
+	margin-bottom:15px;
+	border-radius:0;
+	background-color: #ffdbc5;
+}
+.navbar-brand h1 {
+	color:#cf1b1b;
+	text-align: left;
+	text-shadow: 2px white;
+	font-size: 2em;
+	padding-left:-10px;
+}
+#nav-list #menu-tile {
+	text-align: center;
+	font-weight: italic;
+	color:#cf1b1b;
+	font-size: 1.2em;
+	border:2px solid white;
+}
+.navbar-header button.navbar-toggle,  .navbar-header .icon-bar {
+	border: 1px #cf1b1b solid;
+}
+.navbar-header button.navbar-toggle {
+	clear:both;
+}
+#nav-list a:hover, #nav-list a:focus {
+	background-color: #fff;
+}
+.navbar-brand > a {
+	text-decoration: none;
+}
+
+#title1 {
+	font-weight: bold;
+	color: #ffdbc5;
+	background-color: #cf1b1b;
+	padding-bottom: 30px;
+	padding-top:10px;
+	text-shadow: 2px white;
+}
+#title2 {
+	font-weight: bold;
+	padding-bottom:20px;
+	padding-top:10px;
+}
+
+#content {
+	color: #cf1b1b;
+	width:100%;
+	background-color: #ffdbc5;
+	margin:0;
+	padding:0;
+}
+
+p {
+	margin-left:10px;
+	margin-right: 10px;
+	text-align:left;
+	padding-bottom:15px;
+}
+
